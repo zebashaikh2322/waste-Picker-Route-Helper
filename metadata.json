@@ -1,0 +1,6 @@
+{
+  "name": "Waste-Picker Route Helper Platform",
+  "description": "Smart route planning and hotspot potential scoring for Pune waste pickers and scrap cooperatives, powered by OpenStreetMap walking routes and instant WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
